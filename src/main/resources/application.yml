@@ -14,7 +14,7 @@ spring:
     properties:
       hibernate:
         format_sql: true
-  maiL:
+  mail:
     host: smtp.gmail.com
     port: 587
     username: ${EMAIL_USERNAME}
